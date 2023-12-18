@@ -41,18 +41,17 @@ Feel free to explore and customize the code to fit your needs or use it as a ref
 
 The following screenshots provide a glimpse into the visually stunning and creatively inspiring websites featured on Awwwards Web.
 
-![Home Page Preview](https://github.com/YourUsername/Awwwards-Web/assets/screenshots/home-preview.png)![main a1](https://github.com/Kamu08/Awwwards_website/assets/87929852/dbe1d100-8e33-4d7c-ab14-30fa7ffd7027)
+
+![main a1](https://github.com/Kamu08/Awwwards_website/assets/87929852/dbe1d100-8e33-4d7c-ab14-30fa7ffd7027)
 
 
-![Animation Showcase](https://github.com/YourUsername/Awwwards-Web/assets/screenshots/animation-showcase.png)![a2](https://github.com/Kamu08/Awwwards_website/assets/87929852/5e817fd6-8c22-4740-bee8-a07605ae568d)
+![a2](https://github.com/Kamu08/Awwwards_website/assets/87929852/5e817fd6-8c22-4740-bee8-a07605ae568d)
 
 
-![Responsive Design Example](https://github.com/YourUsername/Awwwards-Web/assets/screenshots/responsive-design-example.png)![footer a1](https://github.com/Kamu08/Awwwards_website/assets/87929852/af64de5c-18d8-4a41-9b01-7dc03506e5dc)
+![footer a1](https://github.com/Kamu08/Awwwards_website/assets/87929852/af64de5c-18d8-4a41-9b01-7dc03506e5dc)
 
 
 This showcase emphasizes the diversity and excellence in web design, offering a visual feast for designers, developers, and enthusiasts alike.
-
-![Innovative Interactions](https://github.com/YourUsername/Awwwards-Web/assets/screenshots/innovative-interactions.png)
 
 Explore websites with innovative interactions, showcasing the limitless possibilities of web development.
 
